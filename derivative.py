@@ -3,6 +3,7 @@ import re
 
 class Derivate:
     #https://qcweb.qc.edu.hk/math/Resource/AL/Derivative%20Table.pdf
+    
     derivatives_descriptions = {
         "constant"                      : "c'",
         "var to power"                  : "x^n",
